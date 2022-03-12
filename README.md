@@ -15,7 +15,7 @@ Trevor Avant & Kristi A. Morgansen
 * the following non-standard python packages: torchvision (0.11.3), torchsummary (1.5.1), cv2 (4.5.5), numpy (1.22.2), matplotlib (3.5.1), transforms3d (0.3.1), imageio (2.15.0)
 
 
-## Monte Carlo Checks on Mathematical Results (`math_verification/` directory)
+## Monte Carlo checks on mathematical results (`math_verification/` directory)
 
 We verified many of the mathematical results in this paper using a random sampling approach:
 
@@ -30,7 +30,7 @@ We verified many of the mathematical results in this paper using a random sampli
 * check that the triangle inequality holds for the rotational distance function: `triangle_inequality_rotational_distance.py`
 
 
-## Pose Network With Provable Bounds (`network/` directory)
+## pose network with provable bounds (`network/` directory)
 
 In Section 8, we developed a pose estimation network with provable sensitivity bounds. The code for this network is in the `network/` directory. We trained this network on the "soup can" object, and our pre-trained network can be used by downloading the checkpoint file from [this link](https://drive.google.com/file/d/10G4NwHPUo_O8YV7FH06R6zzbROW93NyT/view?usp=sharing), and then placing that file in `network/data/checkpoints/`. Additionally, if you would like to use an object other than the soup can, the `network/` directory contains code to generate synthetic images of an object using Blender (which requires a `.blend` file) and code to retrain the network.
 
