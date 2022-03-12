@@ -14,6 +14,8 @@ Trevor Avant & Kristi A. Morgansen
 
 * the following non-standard python packages: torchvision (0.11.3), torchsummary (1.5.1), cv2 (4.5.5), numpy (1.22.2), matplotlib (3.5.1), transforms3d (0.3.1), imageio (2.15.0)
 
+* optional: if you want to generate renders of a new object (i.e., an object other than the soup can) and re-train the network, you will need to install Blender
+
 
 ## Monte Carlo checks on mathematical results (`math_verification/` directory)
 
