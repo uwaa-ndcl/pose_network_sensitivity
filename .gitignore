@@ -1,0 +1,8 @@
+*.blend1
+*.npz
+*.pkl
+*.png
+*.pt
+*.pyc
+!network/blender_models/*.png
+!network/data/bounding_box.npz
