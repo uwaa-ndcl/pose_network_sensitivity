@@ -3,7 +3,7 @@
 
 This is the code for the paper:
 
-[**On the sensitivity of pose estimation neural networks: rotation parameterizations, Lipschitz constants, and provable bounds**](https://!!!)
+[**On the sensitivity of pose estimation neural networks: rotation parameterizations, Lipschitz constants, and provable bounds**](https://arxiv.org/abs/2203.09937)
 
 Trevor Avant & Kristi A. Morgansen
 
