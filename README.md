@@ -3,9 +3,9 @@
 
 This is the code for the paper:
 
-[**On the sensitivity of pose estimation neural networks: rotation parameterizations, Lipschitz constants, and provable bounds**](https://arxiv.org/abs/2203.09937)
+[**On the sensitivity of pose estimation neural networks: rotation parameterizations, Lipschitz constants, and provable bounds**](https://www.sciencedirect.com/science/article/abs/pii/S0005109823002728)
 
-Trevor Avant & Kristi A. Morgansen
+Trevor Avant & Kristi A. Morgansen, *Automatica*, 2023 ([paper](https://www.sciencedirect.com/science/article/abs/pii/S0005109823002728), [preprint](https://arxiv.org/abs/2203.09937))
 
 
 ## dependencies
